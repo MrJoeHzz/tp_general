@@ -3,10 +3,11 @@
   <groupId>com.base.appfragment</groupId>
   <artifactId>appfragment</artifactId>
   <versioning>
-    <release>1.0.0.01-SNAPSHOTS</release>
+    <release>1.0.0.02-SNAPSHOTS</release>
     <versions>
       <version>1.0.0.01-SNAPSHOTS</version>
+      <version>1.0.0.02-SNAPSHOTS</version>
     </versions>
-    <lastUpdated>20190829054937</lastUpdated>
+    <lastUpdated>20190902061632</lastUpdated>
   </versioning>
 </metadata>
