@@ -3,7 +3,7 @@
   <groupId>com.tp.common</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <release>1.0.0.09-RELEASE</release>
+    <release>1.0.0.10-RELEASE</release>
     <versions>
       <version>1.0.0.01-SNAPSHOT</version>
       <version>1.0.0.02-SNAPSHOT</version>
@@ -15,7 +15,8 @@
       <version>1.0.0.07-RELEASE</version>
       <version>1.0.0.08-RELEASE</version>
       <version>1.0.0.09-RELEASE</version>
+      <version>1.0.0.10-RELEASE</version>
     </versions>
-    <lastUpdated>20190903110105</lastUpdated>
+    <lastUpdated>20190904005213</lastUpdated>
   </versioning>
 </metadata>
