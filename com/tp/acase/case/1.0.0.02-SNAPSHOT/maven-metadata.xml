@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.tp.acase</groupId>
   <artifactId>case</artifactId>
-  <version>1.0.0.01-SNAPSHOT</version>
+  <version>1.0.0.02-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190920.093325</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20190920.093516</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190920093325</lastUpdated>
+    <lastUpdated>20190920093516</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>1.0.0.01-20190920.093325-2</value>
-        <updated>20190920093325</updated>
+        <value>1.0.0.02-20190920.093516-1</value>
+        <updated>20190920093516</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0.01-20190920.093325-2</value>
-        <updated>20190920093325</updated>
+        <value>1.0.0.02-20190920.093516-1</value>
+        <updated>20190920093516</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
