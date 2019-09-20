@@ -3,10 +3,11 @@
   <groupId>com.tp.wheelview</groupId>
   <artifactId>wheelview</artifactId>
   <versioning>
-    <release>1.0.0.01-SNAPSHOTS</release>
+    <release>1.0.0.02-SNAPSHOTS</release>
     <versions>
       <version>1.0.0.01-SNAPSHOTS</version>
+      <version>1.0.0.02-SNAPSHOTS</version>
     </versions>
-    <lastUpdated>20190829024248</lastUpdated>
+    <lastUpdated>20190920083904</lastUpdated>
   </versioning>
 </metadata>
