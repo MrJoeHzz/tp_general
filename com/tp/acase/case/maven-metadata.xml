@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tp.acase</groupId>
+  <artifactId>case</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0.01-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190920085032</lastUpdated>
+  </versioning>
+</metadata>
