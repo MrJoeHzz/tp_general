@@ -3,12 +3,13 @@
   <groupId>com.tp.acase</groupId>
   <artifactId>case</artifactId>
   <versioning>
-    <release>1.0.0.02-RELEASE</release>
+    <release>1.0.0.03-RELEASE</release>
     <versions>
       <version>1.0.0.01-SNAPSHOT</version>
       <version>1.0.0.02-SNAPSHOT</version>
       <version>1.0.0.02-RELEASE</version>
+      <version>1.0.0.03-RELEASE</version>
     </versions>
-    <lastUpdated>20190923061321</lastUpdated>
+    <lastUpdated>20190923062643</lastUpdated>
   </versioning>
 </metadata>
