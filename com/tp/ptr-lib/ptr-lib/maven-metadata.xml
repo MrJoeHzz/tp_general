@@ -3,10 +3,11 @@
   <groupId>com.tp.ptr-lib</groupId>
   <artifactId>ptr-lib</artifactId>
   <versioning>
-    <release>1.0.0.01-SNAPSHOTS</release>
+    <release>1.0.0.03-SNAPSHOTS</release>
     <versions>
       <version>1.0.0.01-SNAPSHOTS</version>
+      <version>1.0.0.03-SNAPSHOTS</version>
     </versions>
-    <lastUpdated>20190829042754</lastUpdated>
+    <lastUpdated>20190924020250</lastUpdated>
   </versioning>
 </metadata>
