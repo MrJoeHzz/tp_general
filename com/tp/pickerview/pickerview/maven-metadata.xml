@@ -3,11 +3,12 @@
   <groupId>com.tp.pickerview</groupId>
   <artifactId>pickerview</artifactId>
   <versioning>
-    <release>1.0.0.03-SNAPSHOTS</release>
+    <release>1.0.0.04-SNAPSHOTS</release>
     <versions>
       <version>1.0.0.01-SNAPSHOTS</version>
       <version>1.0.0.03-SNAPSHOTS</version>
+      <version>1.0.0.04-SNAPSHOTS</version>
     </versions>
-    <lastUpdated>20190924015801</lastUpdated>
+    <lastUpdated>20190925014315</lastUpdated>
   </versioning>
 </metadata>
