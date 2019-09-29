@@ -10,7 +10,9 @@
       <version>1.0.0.03-SNAPSHOT</version>
       <version>1.0.0.04-SNAPSHOT</version>
       <version>1.0.0.05-SNAPSHOT</version>
+      <version>1.0.0.06-SNAPSHOT</version>
+      <version>1.0.0.07-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190923065259</lastUpdated>
+    <lastUpdated>20190925014530</lastUpdated>
   </versioning>
 </metadata>
