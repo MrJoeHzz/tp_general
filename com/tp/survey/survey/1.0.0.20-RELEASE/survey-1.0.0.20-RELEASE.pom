@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tp.survey</groupId>
   <artifactId>survey</artifactId>
-  <version>1.0.0.18-RELEASE</version>
+  <version>1.0.0.20-RELEASE</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
