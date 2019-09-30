@@ -3,7 +3,7 @@
   <groupId>com.tp.survey</groupId>
   <artifactId>survey</artifactId>
   <versioning>
-    <release>1.0.0.20-RELEASE</release>
+    <release>1.0.0.21-RELEASE</release>
     <versions>
       <version>1.0.0.03-SNAPSHOT</version>
       <version>1.0.0.04-SNAPSHOT</version>
@@ -31,7 +31,8 @@
       <version>1.0.0.14-SNAPSHOT</version>
       <version>1.0.0.15-SNAPSHOT</version>
       <version>1.0.0.20-RELEASE</version>
+      <version>1.0.0.21-RELEASE</version>
     </versions>
-    <lastUpdated>20190930014343</lastUpdated>
+    <lastUpdated>20190930015815</lastUpdated>
   </versioning>
 </metadata>
