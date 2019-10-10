@@ -14,7 +14,8 @@
       <version>1.0.0.06-RELEASE</version>
       <version>1.0.0.07-RELEASE</version>
       <version>1.0.0.08-RELEASE</version>
+      <version>1.0.0.09-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20191010024437</lastUpdated>
+    <lastUpdated>20191010025412</lastUpdated>
   </versioning>
 </metadata>
