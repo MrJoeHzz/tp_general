@@ -1,0 +1,4 @@
+备注：
+1.删除LoadingFragment，使用Dialog代替Loading.
+2.ToastUtils修改成单例模式，在Application中初始化Toast.
+3.BaseViewModel修改（删除getActivity()方法，使用CompositeDisposable管理RxJava任务）.
