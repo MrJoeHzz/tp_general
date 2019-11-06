@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.base.appfragment</groupId>
+  <artifactId>appfragment</artifactId>
+  <version>1.0.0.13-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191106.075755</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191106075755</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0.13-20191106.075755-1</value>
+        <updated>20191106075755</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.13-20191106.075755-1</value>
+        <updated>20191106075755</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
