@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tp.acase</groupId>
+  <artifactId>case</artifactId>
+  <version>1.0.0.22-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191118.015124</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191118015124</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0.22-20191118.015124-1</value>
+        <updated>20191118015124</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.22-20191118.015124-1</value>
+        <updated>20191118015124</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
