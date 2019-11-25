@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tp.knowledge</groupId>
+  <artifactId>knowledge</artifactId>
+  <version>1.0.0.07-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191125.060216</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191125060216</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0.07-20191125.060216-1</value>
+        <updated>20191125060216</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.07-20191125.060216-1</value>
+        <updated>20191125060216</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
