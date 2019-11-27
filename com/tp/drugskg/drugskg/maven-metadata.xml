@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tp.drugskg</groupId>
+  <artifactId>drugskg</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191127023836</lastUpdated>
+  </versioning>
+</metadata>
