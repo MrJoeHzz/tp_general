@@ -1,3 +1,0 @@
-备注：
-1.删除LoadingFragment，使用Dialog代替Loading.
-2.ToastUtils修改成单例模式，在Application中初始化Toast.

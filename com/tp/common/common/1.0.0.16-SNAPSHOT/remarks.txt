@@ -1,2 +1,0 @@
-备注：
-1.BaseViewModel修改（删除getActivity()方法，使用CompositeDisposable管理RxJava任务）.
