@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tp.drugskg</groupId>
+  <artifactId>drugskg</artifactId>
+  <version>1.0.0.05-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191211.033107</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191211033107</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0.05-20191211.033107-1</value>
+        <updated>20191211033107</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.05-20191211.033107-1</value>
+        <updated>20191211033107</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
