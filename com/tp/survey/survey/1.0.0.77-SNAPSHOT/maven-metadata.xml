@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tp.survey</groupId>
+  <artifactId>survey</artifactId>
+  <version>1.0.0.77-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200108.102545</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200108102545</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0.77-20200108.102545-1</value>
+        <updated>20200108102545</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.77-20200108.102545-1</value>
+        <updated>20200108102545</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
