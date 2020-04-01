@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tp.common</groupId>
+  <artifactId>common</artifactId>
+  <version>1.0.0.51-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200401.024125</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200401024125</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0.51-20200401.024125-1</value>
+        <updated>20200401024125</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.51-20200401.024125-1</value>
+        <updated>20200401024125</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
