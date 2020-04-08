@@ -3,7 +3,7 @@
   <groupId>com.base.appfragment</groupId>
   <artifactId>appfragment</artifactId>
   <versioning>
-    <release>1.0.0.02-SNAPSHOTS</release>
+    <release>1.0.0.31-RELEASE</release>
     <versions>
       <version>1.0.0.01-SNAPSHOTS</version>
       <version>1.0.0.02-SNAPSHOTS</version>
@@ -40,7 +40,8 @@
       <version>1.0.0.33-SNAPSHOT</version>
       <version>1.0.0.34-SNAPSHOT</version>
       <version>1.0.0.35-SNAPSHOT</version>
+      <version>1.0.0.31-RELEASE</version>
     </versions>
-    <lastUpdated>20200401021451</lastUpdated>
+    <lastUpdated>20200408032602</lastUpdated>
   </versioning>
 </metadata>
