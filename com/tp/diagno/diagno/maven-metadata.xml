@@ -3,7 +3,7 @@
   <groupId>com.tp.diagno</groupId>
   <artifactId>diagno</artifactId>
   <versioning>
-    <release>1.0.0.30-RELEASE</release>
+    <release>1.0.0.31-RELEASE</release>
     <versions>
       <version>1.0.0.0-SNAPSHOT</version>
       <version>1.0.0.01-SNAPSHOT</version>
@@ -42,7 +42,8 @@
       <version>1.0.0.30-RELEASE</version>
       <version>1.0.0.34-SNAPSHOT</version>
       <version>1.0.0.35-SNAPSHOT</version>
+      <version>1.0.0.31-RELEASE</version>
     </versions>
-    <lastUpdated>20200427024200</lastUpdated>
+    <lastUpdated>20200515095017</lastUpdated>
   </versioning>
 </metadata>

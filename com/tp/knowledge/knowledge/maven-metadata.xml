@@ -3,7 +3,7 @@
   <groupId>com.tp.knowledge</groupId>
   <artifactId>knowledge</artifactId>
   <versioning>
-    <release>1.0.0.31-RELEASE</release>
+    <release>1.0.0.32-RELEASE</release>
     <versions>
       <version>1.0.0.00-SNAPSHOT</version>
       <version>1.0.0.01-SNAPSHOT</version>
@@ -44,7 +44,8 @@
       <version>1.0.0.31-RELEASE</version>
       <version>1.0.0.35-SNAPSHOT</version>
       <version>1.0.0.36-SNAPSHOT</version>
+      <version>1.0.0.32-RELEASE</version>
     </versions>
-    <lastUpdated>20200427024244</lastUpdated>
+    <lastUpdated>20200515095104</lastUpdated>
   </versioning>
 </metadata>
